@@ -1,6 +1,6 @@
 name: Pull Requests Tests
 on: [pull_request]
-jons:
+jobs:
   PullRequest:
   runs-on: ubuntu-latest
   steps:
